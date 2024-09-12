@@ -1,4 +1,4 @@
-🤺 # Kwandile Mgenge
+# 🤺 Kwandile Mgenge
 
 ## Front End Developer
 
