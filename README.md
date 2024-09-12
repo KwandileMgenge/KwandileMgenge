@@ -1,6 +1,6 @@
 # 🤺 Kwandile Mgenge
 
-** "Software Engineer (Developer/Designer)" **
+**"Software Engineer (Developer/Designer)"**
 
 I’m a skilled Front-End Developer with over 2 years of experience in creating dynamic, user-friendly web interfaces. Proficient in HTML5, CSS3, Tailwind, and JavaScript, I specialize in building responsive and visually appealing websites.
 
