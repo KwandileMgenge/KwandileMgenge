@@ -1,8 +1,8 @@
 # 🤺 Kwandile Mgenge
 
-## Front End Developer
+** "Software Engineer (Developer/Designer)" **
 
-I Love to Code
+I’m a skilled Front-End Developer with over 2 years of experience in creating dynamic, user-friendly web interfaces. Proficient in HTML5, CSS3, Tailwind, and JavaScript, I specialize in building responsive and visually appealing websites.
 
 * 🌍  I'm based in Durban, South Africa
 * ✉️  You can contact me at [kwandilen.mgenge@gmail.com](mailto:kwandilen.mgenge@gmail.com)
