@@ -22,13 +22,13 @@ I combine technical problem-solving skills from my partial BSc in Computer Scien
 React • TypeScript • HTML5 • CSS3 • TailwindCSS  
 
 **Backend**  
-Node.js • Express • PHP • Python • PostgreSQL • WordPress  
+Node.js • Express • Python • FastAPI  • PostgreSQL  
 
 **Tools & Platforms**  
-Git • GitHub • Figma • Netlify • REST APIs • SEO  
+Git / GitHub • Firebase • Figma • Netlify • Docker
 
 **Additional**  
-Responsive & accessible design • CRUD applications • Basic networking & support
+REST APIs • Agile • Responsive Design • SEO • Basic Networking & Support 
 
 ---
 
@@ -38,14 +38,6 @@ CodeSpace Academy (Remote) – July 2024 – March 2025
 
 **Bachelor of Science in Computer Science (Coursework)**  
 University of the Witwatersrand – 2020 – 2022 (135 credits completed)
-
----
-
-### 📊 GitHub Stats
-
-![KwandileMgenge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KwandileMgenge&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KwandileMgenge&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
